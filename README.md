@@ -1,4 +1,6 @@
-# React + Vite
+Created a monolithic course selling Web App with React-Vite & Node.js
+
+React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
